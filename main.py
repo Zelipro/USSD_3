@@ -21,7 +21,7 @@ from kivymd.uix.behaviors import RectangularRippleBehavior
 from kivy.uix.image import Image
 from kivymd.uix.gridlayout import MDGridLayout
 
-Window.size = [360,600]
+#Window.size = [360,600]
 #La main 
 class ImageButton(MDCard, RectangularRippleBehavior):
     """Bouton personnalisé avec image et texte"""
